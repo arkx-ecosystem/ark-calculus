@@ -10,7 +10,7 @@
     }],
     "require": {
         "php": "^7.1",
-        "brick/math": "^0.7.2"
+        "brick/math": "0.8.*"
     },
     "require-dev": {
         "illuminate/support": "^5.6",
