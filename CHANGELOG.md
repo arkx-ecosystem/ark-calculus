@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## 0.2.0
+
+### Changed
+- Replace `litipk/php-bignumbers` with `brick/math`
+
 ## 0.1.1
 
 ### Changed
