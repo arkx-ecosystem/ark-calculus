@@ -26,12 +26,12 @@ class BigNumber
     /**
      * @var int
      */
-    const ARKTOSHI = 10 ** 8;
+    const ARKTOSHI = 1e8;
 
     /**
      * @var int
      */
-    const SCALE = 8;
+    const SCALE = 0;
 
     /**
      * @var int
