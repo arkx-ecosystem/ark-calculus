@@ -15,7 +15,7 @@
     "require-dev": {
         "illuminate/support": "^6.0.0",
         "phpunit/phpunit": "^8.0.0",
-        "symfony/var-dumper": "^4.1"
+        "symfony/var-dumper": "^5.0.0"
     },
     "autoload": {
         "psr-4": {
